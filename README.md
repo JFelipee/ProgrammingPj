@@ -5,6 +5,7 @@ Se intenta practicar y recordar el uso:
 * Junit
 * SonarQube
 * Maven
+  
 Ademas del uso de principios de:
         * Architectural Pattern model, view and controller(MVC)
 
