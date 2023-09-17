@@ -1,7 +1,0 @@
-gitlab: http://costa.ls.fi.upm.es/gitlab/users/sign_in
-
-sonarqube: http://costa.ls.fi.upm.es:9000/sonar/sessions/new?return_to=%2Fsonar%2F
-	usuario: num matricula
-	contraseña: DNI
-
-Jose joder cambia tu usuario en el xml.pom antes de subir las cosas a sonarqube, que se me resetea lo mío CRACK:D.
